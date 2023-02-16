@@ -1,0 +1,3 @@
+The interesting thing about spacy algorithm is that it shows similarities by association between object, for example monkey and banana has a much higher coefficient than a monkey and an apple.
+
+The biggest difference between en_core_web_sm and en_core_web_md is that the simple language model does not have the word vectors loaded, which means that the simple model is not as useful as the more complex model when looking for similarity judgement.
